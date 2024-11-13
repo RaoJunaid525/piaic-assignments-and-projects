@@ -1,3 +1,0 @@
-This is an explanatory file
-
-These are the new changes in the text file.
